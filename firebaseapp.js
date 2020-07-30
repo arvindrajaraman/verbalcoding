@@ -1,14 +1,6 @@
 // FIREBASE AUTH
 
-var firebaseConfig = {
-	apiKey: "AIzaSyCJuUb2TnP3EFw1IFYypHY6K8AUZpuiQeE",	
-	authDomain: "api-project-797042688460.firebaseapp.com",
-	databaseURL: "https://api-project-797042688460.firebaseio.com",
-	projectId: "api-project-797042688460",
-	storageBucket: "api-project-797042688460.appspot.com",
-	messagingSenderId: "797042688460",
-	appId: "1:797042688460:web:f7948cf3ed0be9e9"
-};
+var firebaseConfig = {};
 
 firebase.initializeApp(firebaseConfig);
 
